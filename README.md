@@ -870,7 +870,7 @@ Visualisasi dilakukan menggunakan boxplot terhadap skor kepuasan mahasiswa.
 
 ## Output Visualisasi
 
-![Boxplot Skor Kepuasan](images/boxplot.png)
+![Boxplot Skor Kepuasan](Boxplot.png)
 
 Berdasarkan boxplot yang dihasilkan, terlihat bahwa sebagian besar skor kepuasan mahasiswa berada pada rentang nilai sekitar 2,5 hingga 3,5. Median data berada mendekati angka 3 yang menunjukkan bahwa mayoritas mahasiswa memberikan penilaian pada kategori puas. Selain itu, tidak terlihat adanya pencilan ekstrem yang berada jauh dari distribusi utama data. Hal ini menunjukkan bahwa jawaban responden relatif homogen dan tidak terdapat perbedaan yang terlalu besar antarresponden. Sebaran data yang cenderung terkonsentrasi pada nilai 3 menunjukkan bahwa persepsi mahasiswa terhadap kualitas koneksi internet secara umum berada pada tingkat yang baik.
 
