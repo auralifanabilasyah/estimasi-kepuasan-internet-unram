@@ -9,20 +9,17 @@ Analisis dilakukan menggunakan dua metode sampling, yaitu Simple Random Sampling
 Bahasa pemrograman yang digunakan adalah R dengan bantuan beberapa package statistik seperti readxl, dplyr, dan psych.
 
 ---
+# DAFTAR ISI
 
-# Daftar Isi
-
-1. Deskripsi Proyek
-2. Latar Belakang
-3. Tujuan Penelitian
-4. Metodologi Penelitian
-5. Langkah-Langkah Analisis Menggunakan R Studio
-6. Hasil dan Pembahasan
-7. Kesimpulan
-8. Daftar Pustaka
+- [Deskripsi Proyek](#deskripsi-proyek)
+- [Latar Belakang](#latar-belakang)
+- [Tujuan Penelitian](#tujuan-penelitian)
+- [Metodologi Penelitian](#metodologi-penelitian)
+- [Langkah-Langkah Analisis Menggunakan R Studio](#langkah-langkah-analisis-menggunakan-r-studio)
+- [Hasil dan Pembahasan](#hasil-dan-pembahasan)
+- [Kesimpulan](#kesimpulan)
 
 ---
-
 # LATAR BELAKANG
 
 Perkembangan teknologi informasi dan komunikasi telah memberikan perubahan yang sangat besar dalam dunia pendidikan tinggi. Internet tidak lagi hanya berfungsi sebagai sarana komunikasi, tetapi telah menjadi kebutuhan utama dalam mendukung berbagai aktivitas akademik mahasiswa. Berbagai kegiatan pembelajaran saat ini sangat bergantung pada ketersediaan akses internet yang memadai, mulai dari mengakses materi perkuliahan, mencari referensi ilmiah, mengikuti perkuliahan daring, mengunggah tugas, hingga mengakses berbagai sistem informasi akademik yang disediakan oleh universitas. Menurut Al-Fraihat et al. (2020), kualitas layanan teknologi informasi memiliki pengaruh yang signifikan terhadap kepuasan pengguna dalam lingkungan pendidikan. Semakin baik kualitas layanan yang diberikan, maka semakin tinggi pula tingkat kepuasan yang dirasakan oleh pengguna. Oleh karena itu, kualitas koneksi internet menjadi salah satu faktor penting yang dapat memengaruhi efektivitas proses pembelajaran mahasiswa.
